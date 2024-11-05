@@ -2,7 +2,7 @@
 MY LITA PROJECT This repositiry showcases a powerBI vitualization setup using DirectQuery and Composite Models for sales performance analysis
 
 ## Table of Contents
-1. [overview](#overview)
+1. [overview](#overview) 
 2. [data sources](#data-sources)
 3. [tools used](#tools-used)
 4. [data cleaning](#data-cleaning)
