@@ -3,13 +3,13 @@ MY LITA PROJECT This repositiry showcases a powerBI vitualization setup using Di
 
 ## Table of Contents
 1. [overview](#overview)
-2. [data sources](#data sources)
-3. [tools used](#tools used)
-4. [data cleaning](#data cleaning)
-5. [exploration data analysis](#exploration data analysis)
-6. [description of sales performance vitualization](#description of sales performance vitualization)
-7. [explanation of data model and relationships](#explanation of data model and relationships)
-8. [insights and findings](#insights and findings)
+2. [data sources](#data-sources)
+3. [tools used](#tools-used)
+4. [data cleaning](#data-cleaning)
+5. [exploration data analysis](#exploration-data-analysis)
+6. [description of sales performance vitualization](#description-of-sales-performance-vitualization)
+7. [explanation of data model and relationships](#explanation-of-data-model-and-relationships)
+8. [insights and findings](#insights-and-findings)
 
 ### OVERVIEW AND INTRODUCTION
 this vitualization setup connects to a SQL Server database, Excel and utilizes Power BI's DirectQuery and Composite Models features.
