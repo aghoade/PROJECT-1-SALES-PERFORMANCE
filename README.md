@@ -7,7 +7,7 @@ MY LITA PROJECT This repositiry showcases a powerBI vitualization setup using Di
 3. [tools used](#tools-used)
 4. [data cleaning](#data-cleaning)
 5. [exploration data analysis](#exploration-data-analysis)
-6. [description of sales performance vitualization](#description-of-sales-performance-vitualization)
+6. [description of sales performance vitualization](#description-of-sales-performance-vitualization) 
 7. [explanation of data model and relationships](#explanation-of-data-model-and-relationships)
 8. [insights and findings](#insights-and-findings)
 
