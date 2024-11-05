@@ -20,7 +20,7 @@ the primary sources of data used is the LITA capstone data WITH SALE PERFORMANCE
 ### TOOLS USED
 Ms excel
 SQL
-POWER BI
+POWER BI 
 
 ### DATA CLEANING
 Power BI was used to ensure check acauracy which was 100%. in the initial phase of the data cleaning and preparations the following action was perform
