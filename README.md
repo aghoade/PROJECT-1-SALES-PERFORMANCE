@@ -30,7 +30,8 @@ Power BI was used to ensure check acauracy which was 100%. in the initial phase 
 4. data modelling
 
 ###EXPLORATION DATA ANALYSIS
-the following where thw questions use in analysing the data
+
+the following where the questions use in analysing the data
 
 ### DESCRIPTION OF SALES PERFORMANCE VITYALIZATION
 excel functions were applied in the dataset given and a pivot table was created
